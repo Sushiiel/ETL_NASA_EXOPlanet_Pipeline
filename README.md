@@ -63,4 +63,4 @@ Apache Airflow is used to create a DAG for orchestrating the ETL pipeline, where
 ![ETL Pipeline](https://raw.githubusercontent.com/Sushiiel/ETL_NASA_EXOPlanet_Pipeline/main/ETL_GCP_Pipeline_2.png)
 
 ## Author
-- **Your Name** - [Your GitHub Profile](https://github.com/Sushiiel)
+- **Sushiiel** - [Your GitHub Profile](https://github.com/Sushiiel)
